@@ -1,0 +1,1 @@
+pig -x local count.pig > output

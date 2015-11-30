@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//convert/json_to_csv_business.py=utf-8
+encoding//convert/json_to_csv_converter.py=utf-8
+encoding//convert/json_to_csv_review.py=utf-8
+encoding//convert/json_to_csv_tip.py=utf-8
+encoding//convert/json_to_csv_user.py=utf-8
